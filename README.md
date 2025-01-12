@@ -20,3 +20,4 @@
 - ![image](https://github.com/user-attachments/assets/e7cc2d25-8da1-41b9-91e4-cc383d018191)
 
 
+Inspired by Data Tutorials(YouTube) - PowerBI and SQL Project.
